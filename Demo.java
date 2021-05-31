@@ -1,6 +1,7 @@
 public class Demo 
 {
-	public static void main(String[] args) 
+        //Bug-193 fixed
+	public  void m() 
 	{
 		System.out.println("DEmo .....");
 	}
