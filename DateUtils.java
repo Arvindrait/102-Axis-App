@@ -1,9 +1,9 @@
-public class DateUtils 
-{
+public class DateUtils {
 
    int a=10;  
-   int b=20;
-
+   int b=30;
+   int c=90;
+   
    public void init(){
 
     
