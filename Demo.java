@@ -1,11 +1,11 @@
 public class Demo {
+    
+     public void m1(){
+      
+      }
+
         //Bug-193 fixed
 	public  void m() {
 		
           }
-   
-       //Bug-190 changes
-	public void doProcess() {
-		
-	}
  }
